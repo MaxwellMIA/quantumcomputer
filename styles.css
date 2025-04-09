@@ -76,3 +76,23 @@ nav {
     top: 50%;
     transform: translate(-50%, 25%) rotate(-45deg);
 }
+
+#header {
+    justify-content:center;
+    text-align: center; 
+}
+
+ul li a{
+    color: aquamarine;
+    text-decoration: none;
+}
+
+#cc {
+    margin: 20px;
+    padding: 20px;
+}
+
+#feettags {
+    color: aquamarine;
+    text-decoration: none;
+}
