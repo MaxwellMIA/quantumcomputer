@@ -119,6 +119,19 @@ ul li a{
     justify-content:center;
     text-align: center; 
     margin: 20px;
-    padding: 20px;
+    padding: 2px;
     font-size: large;
+}
+
+img {
+    height: 500px;
+    margin: 20px;
+    padding: 0px 0px 0px 275px;
+}
+
+#ss {
+    justify-content:center;
+    text-align: center; 
+    padding: 1px;
+    font-size: small;
 }
