@@ -138,3 +138,10 @@ img {
 p, footer, h1, b, span {
     color: #462521;
 }
+
+#bb {
+    justify-content:center;
+    text-align: center; 
+    padding: 1px;
+    font-size: bold;
+}
